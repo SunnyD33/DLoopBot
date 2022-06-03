@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/SunnyD33/DLoopBot/issues"
   },
-  "homepage": "https://github.com/SunnyD33/DLoopBot#readme"
+  "homepage": "https://github.com/SunnyD33/DLoopBot#readme",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "puppeteer": "^14.2.1",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
 }
