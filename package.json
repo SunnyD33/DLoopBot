@@ -19,6 +19,7 @@
   "homepage": "https://github.com/SunnyD33/DLoopBot#readme",
   "dependencies": {
     "discord": "^0.8.2",
+    "discord.js": "^13.8.0",
     "puppeteer": "^14.2.1",
     "puppeteer-extra": "^3.2.3",
     "puppeteer-extra-plugin-stealth": "^2.9.0"
