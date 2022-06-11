@@ -6,6 +6,7 @@ without cluttering files. These functions should be imported and pass data that 
 const helpString = ["- All commands must be prefixed with a $ to get a response.",
 "- Currently, I only provide data for GGST but that may to change in the future.",
 "- Enter a character name or alias from the game for a general overview of the character.",
+"- Enter $characters, $chars, $Characters or $Chars to get a list of current characters.",
 "- Enter $aliases or $Aliases to list accepted aliases for characters in the game", 
 "- Enter a character name with a move to get details about the move.",
 "- Enter the characters name or alias and moves (Ex: $Nagoriyuki moves) and their moveset will be listed",
